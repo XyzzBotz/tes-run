@@ -14,7 +14,7 @@ global.owner = [
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
-global.lolkey = 'YourApikey'
+global.lolkey = '5TvMjyx1ERKR'
 global.xkey = 'YourApikey'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -37,7 +37,7 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 Dii BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 Salsaa BOT あ⁩ 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
@@ -77,8 +77,8 @@ global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://t
 /*============== NOMOR ==============*/
 global.nomorbot = '628971447373'
 global.nomorown = '62895386858033'
-global.namebot = 'Dii-Bot'
-global.nameown = 'Xyzz.Ganz'
+global.namebot = 'Nissa-Bot'
+global.nameown = 'Aldii.Ganz'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -108,8 +108,8 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 global.hsquere = '⛶', '❏', '⫹⫺'
 
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = '@ Nissa Botz'
+global.author = 'Dibuat Oleh AldiGanz++'
 
 global.multiplier = 69 // The higher, The harder levelup
 
